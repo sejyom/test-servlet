@@ -1,3 +1,4 @@
+//서블릿 등록 - 애노테이션(@Web Servlet)
 package hello.servlet;
 
 import jakarta.servlet.ServletException;
