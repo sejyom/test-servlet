@@ -15,6 +15,5 @@ public class MyContainerInitV2 implements ServletContainerInitializer {
         System.out.println("MyContainerInitV2 c = " + c);
         System.out.println("MyContainerInitV2 ctx = " + ctx);
 
-        //class hello.
     }
 }
