@@ -4,8 +4,6 @@ import jakarta.servlet.ServletContainerInitializer;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.HandlesTypes;
-
-import java.lang.reflect.InvocationTargetException;
 import java.util.Set;
 
 @HandlesTypes(AppInit.class)
